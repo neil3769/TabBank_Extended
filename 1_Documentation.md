@@ -7,7 +7,7 @@ This file contains detailed description about each of the datasets to be conside
 ## 1. `AI4I 2020 Predictive Maintenance Dataset`
 - **Description:** The AI4I 2020 Predictive Maintenance Dataset is a synthetic dataset that reflects real predictive maintenance data encountered in industry.
 - **Source:** <a href="https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset">UCIMLR</a>
-- **File:**  ![CHANGE.csv](./datasets/Bank_Personal_Loan_Modelling.csv)
+- **File:**  ![CHANGE.csv](datasets/Industry_Manufacturing/AI4I_2020_Predictive_Maintenance.csv)
 - **#Rows:** 10000
 - **#Features:** 14
 - **Target:** `Machine Failure`
